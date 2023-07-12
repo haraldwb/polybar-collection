@@ -4,6 +4,12 @@ My personal collection. Trying to make some nice themes, and show how great [Pol
 
 Read this README with attention.
 
+## hbnotes
+- [see this thread for fixing brightness controls](https://superuser.com/questions/484678/cant-write-to-file-sys-class-backlight-acpi-video0-brightness-ubuntu)
+- [See this thread for how to get clickable network manager identical to i3bar](https://www.reddit.com/r/i3wm/comments/kj2yiz/polybar_or_i3blocks_network_manager_integration/)
+
+
+
 ## Getting Started
 
 ### Prerequisites
